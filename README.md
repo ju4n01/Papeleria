@@ -136,7 +136,7 @@ SELECT fecha, SUM(total) FROM ventas GROUP BY fecha;
 
 ## Modelo de Supabase 
 ```
-![Descripción de la imagen](images/supabase-schema.png)
+![Modelo extraido de supabase](images/supabase-schema.png)
 ```
 
 ## Estructura de Paquetes
